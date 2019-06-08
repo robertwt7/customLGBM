@@ -1,0 +1,8 @@
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/install/strip.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/install/local.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/lightgbm.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/_lightgbm.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/edit_cache.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/rebuild_cache.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/list_install_components.dir
+/home/sh1/S3713561/work/LightGBM/build/CMakeFiles/install.dir
